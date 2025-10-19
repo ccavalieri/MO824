@@ -1,0 +1,2 @@
+Configuration,Instance,BestCost,TotalIterations,IterationsToOptimal,ExecutionTimeMs,StoppingCriterion,StoppedByTime,SolutionSize
+GRASP_FirstImproving,n100p3.txt,1707.06,112,11,7507,NO_IMPROV,false,64
