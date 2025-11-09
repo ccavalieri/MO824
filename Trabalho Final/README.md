@@ -9,7 +9,7 @@ Implementação e comparação de métodos de otimização para o problema de al
 - **GRASP**: Metaheurística construtiva com busca local
 - **GRASP + Reactive + VND**: Versão avançada com alpha reativo e busca local multi-vizinhança
 
-- - **Tabu Search**:
+- **Tabu Search**:
 
 ## Arquivos
 
