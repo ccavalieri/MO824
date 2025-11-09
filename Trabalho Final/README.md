@@ -11,7 +11,7 @@ Implementação e comparação de métodos de otimização para o problema de al
 ## Arquivos
 
 ### Geração de Instâncias
-- `generate_risks.py` - Gera riscos iniciais dos alunos
+- `generate_risks_markov.py` - Gera riscos iniciais dos alunos
 - `generate_instance.py` - Gera instância completa do problema
 
 ### Solvers
