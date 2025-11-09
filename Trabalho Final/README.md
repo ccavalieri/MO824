@@ -5,8 +5,11 @@ Trabalho MO824 Tópicos em Otimização Combinatória - Pesquisa Operacional
 
 Implementação e comparação de métodos de otimização para o problema de alocação de intervenções para prevenção de evasão escolar:
 - **ILP**: Programação Linear Inteira (Gurobi)
+  
 - **GRASP**: Metaheurística construtiva com busca local
-- **GRASP + Reactive + VND**: Versão avançada com busca local multi-vizinhança
+- **GRASP + Reactive + VND**: Versão avançada com alpha reativo e busca local multi-vizinhança
+
+- - **Tabu Search**:
 
 ## Arquivos
 
